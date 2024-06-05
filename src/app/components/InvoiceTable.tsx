@@ -24,23 +24,23 @@ const InvoiceTable = () => {
           <td className="px-4 py-2"> 1</td>
           <td className="px-4 py-2">description of product</td>
           <td className="px-4 py-2">unit</td>
-          <td className="px-4 py-2">qty</td>
-          <td className="px-4 py-2">netAmount</td>
-          <td className="px-4 py-2">taxRate</td>
-          <td className="px-4 py-2">taxType</td>
-          <td className="px-4 py-2">taxAmount</td>
-          <td className="px-4 py-2">totalAmount.toFixed</td>
+          <td className="px-4 py-2">3</td>
+          <td className="px-4 py-2">10</td>
+          <td className="px-4 py-2">2</td>
+          <td className="px-4 py-2">CDS</td>
+          <td className="px-4 py-2">6</td>
+          <td className="px-4 py-2">36</td>
         </tr>
         <tr className="text-xs border-t border-gray-200 text-center">
-          <td className="px-4 py-2"> 1</td>
+          <td className="px-4 py-2"> 2</td>
           <td className="px-4 py-2">description</td>
           <td className="px-4 py-2">unit</td>
-          <td className="px-4 py-2">qty</td>
-          <td className="px-4 py-2">netAmount</td>
-          <td className="px-4 py-2">taxRate</td>
-          <td className="px-4 py-2">taxType</td>
-          <td className="px-4 py-2">taxAmount</td>
-          <td className="px-4 py-2">totalAmount.toFixed</td>
+          <td className="px-4 py-2">4</td>
+          <td className="px-4 py-2">15</td>
+          <td className="px-4 py-2">2</td>
+          <td className="px-4 py-2">cds</td>
+          <td className="px-4 py-2">8</td>
+          <td className="px-4 py-2">68</td>
         </tr>
         <tr className="text-xs border-t border-gray-200 text-center">
           <td className="px-4 py-2 font-bold"> total Amount</td>
@@ -51,7 +51,7 @@ const InvoiceTable = () => {
           <td className="px-4 py-2"></td>
           <td className="px-4 py-2"></td>
           <td className="px-4 py-2"></td>
-          <td className="px-4 py-2 font-bold">434343</td>
+          <td className="px-4 py-2 font-bold">104</td>
         </tr>
       </tbody>
     </div>
